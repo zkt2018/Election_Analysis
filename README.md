@@ -1,4 +1,4 @@
-# Election_Analysis
+# Election Analysis
 
 ## **Overview of Election Audit**
 In this project, we analyze the congressional election results for some US counties. The purpose of the project is to audit the number of voters in total as well as in each county and candidate. Using Python, the election statistics are calculated, summarized, and saved on a text file.
